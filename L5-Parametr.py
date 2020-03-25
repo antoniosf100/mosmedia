@@ -1,0 +1,1 @@
+#Parametr1
